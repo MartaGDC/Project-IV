@@ -1,0 +1,7 @@
+,race,gender,good_prop,neutral_prop,bad_prop
+0,human,,0.625,0.125,0.25
+1,not-human,,0.6406,0.0938,0.2656
+2,not-human,Female,0.7059,0.0915,0.2026
+3,human,Female,0.6768,0.1212,0.202
+4,human,Male,0.5902,0.082,0.3279
+5,not-human,Male,0.5232,0.0876,0.3892
