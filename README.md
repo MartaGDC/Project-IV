@@ -4,7 +4,7 @@ Links:
 - [Tableau](https://public.tableau.com/views/heros_17004379997200/Story1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Datasets
-From kaggle I obtained this [database](data/original_superheros.csv).
+From kaggle I obtained this [database](https://github.com/MartaGDC/Project-IV/blob/main/data/heros.csv#:~:text=queries_results-,heros.csv,-original_superheros.csv).
 
 It contains information about superheros and villains from different sources, their superpowers and strengths.
 
