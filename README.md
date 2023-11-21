@@ -26,7 +26,7 @@ It contains information about superheros and villains from different sources, th
     - Superpowers
 
 ## Process
-1. ETL: this is the resulting [database](https://github.com/MartaGDC/Project-IV/blob/main/data/original_superheros.csv).
+1. ETL: this is the resulting [database](https://github.com/MartaGDC/Project-IV/blob/main/data/original_superheros.csv#:~:text=original_superheros.csv).
 2. EDA:
     - Using python's conection with MySQL to answer the proposed questions.
     - Using Tableau to visualize the relevant conclusions from the previous exploration.
